@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZAgX4zuKHMwJRKhd2YzcM6ZJWd0KU3hZ+LNqfj3/wT4=",
+  "Source": "AWS-Email-to-database",
+  "BasePath": "_content/AWS-Email-to-database",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

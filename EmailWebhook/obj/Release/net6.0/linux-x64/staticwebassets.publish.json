@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AHNhZcU/1W2n+B0ET6tpEbIF3GazBnGBoCh7p5ECtyM=",
+  "Source": "EmailWebhook",
+  "BasePath": "_content/EmailWebhook",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
