@@ -43,5 +43,6 @@ An AWS Serverless Api to fetch and store email data in dynamo database.
   return emailData;
 }
 ```
-
-- set a trigger to execute script every 5 minutes. 
+- set a trigger to execute script every 1-5 minutes. 
+    (this fetches the data from the mail and sends it to the api    gateway).
+- put your deployed api-gateway url in place of "your_api_gateway_url" and you're good to go.
