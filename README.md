@@ -1,5 +1,5 @@
 
-# Email-to-Dynamo
+# Inbox2Dynamo
 Automation: AWS serverless solution to catch, extract, and store the data sent via emails in Amazon Dynamo NoSQL database.
 
 
