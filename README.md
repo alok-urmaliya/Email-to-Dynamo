@@ -1,16 +1,15 @@
 
 # Email-to-Dynamo
-
-An AWS Serverless Api to fetch and store email data in dynamo database.
+Automation: AWS serverless solution to catch, extract, and store the data sent via emails in Amazon Dynamo NoSQL database.
 
 
 ## Configure
 
  - Open Gmail -> See all Settings
  - Forwarding and POP/IMAP -> Enable IMAP
- - open google Sheets 
+ - Navigate to Google Sheets 
  - Extensions -> Apps Script
- - write the below code->
+ - Write the code provided below ->
  
 
 
@@ -44,5 +43,5 @@ An AWS Serverless Api to fetch and store email data in dynamo database.
 }
 ```
 - set a trigger to execute script every 1-5 minutes. 
-    (this fetches the data from the mail and sends it to the api    gateway).
-- put your deployed api-gateway url in place of "your_api_gateway_url" and you're good to go.
+    (this fetches the data from the emails and sends it to the API gateway).
+- Put your deployed api-gateway url in place of "your_api_gateway_url" and you're good to go.
